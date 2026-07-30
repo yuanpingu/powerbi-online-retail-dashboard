@@ -21,8 +21,8 @@ The dashboard provides interactive insights into:
 
 ![Customers Dashboard](images/customers.png)
 
+## Schema Diagram
 ![Schema Diagram](images/schema-diagram.png)
-
 
 ## Skills Demonstrated 
 
